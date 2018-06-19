@@ -1,0 +1,2 @@
+class banana():
+    pass
